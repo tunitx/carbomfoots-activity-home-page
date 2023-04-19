@@ -30,7 +30,7 @@ letter-spacing: 5px;
 }
 
 main{
-    background-image: url(/style/images/astrocat.png), url(/style/images/footer.jpeg);
+    background-image: url(../style/images/astrocat.png), url(../style/images/footer.jpeg);
     background-size:  27%, cover;
     background-repeat: no-repeat, no-repeat;
     background-position: top right, center ;
@@ -77,38 +77,38 @@ margin-bottom: 3%;
     /* background-color: aqua; */
 }
 #card-1{
-    background-image: url(/style/images/electricity.png);
+    background-image: url(../style/images/electricity.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 #card-2{
-    background-image: url(/style/images/waste-img.jpeg);
+    background-image: url(../style/images/waste-img.jpeg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 #card-3{
-    background-image: url(/style/images/travel.png);
+    background-image: url(../style/images/travel.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 125%;
 }
 #card-4{
-    background-image: url(/style/images/cargo.jpg);
+    background-image: url(../style/images/cargo.jpg);
     /* background-color: blueviolet; */
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 #card-5{
-    background-image: url(/style/images/energy-cnsp.jpg);
+    background-image: url(../style/images/energy-cnsp.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 #card-6{
-    background-image: url(/style/images/pollution.webp);
+    background-image: url(../style/images/pollution.webp);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
